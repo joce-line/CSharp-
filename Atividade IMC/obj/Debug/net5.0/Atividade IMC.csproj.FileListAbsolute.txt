@@ -14,3 +14,19 @@ C:\Users\User\Desktop\Joceline\C#\visual studio\IMC\Atividade IMC\Atividade IMC\
 C:\Users\User\Desktop\Joceline\C#\visual studio\IMC\Atividade IMC\Atividade IMC\obj\Debug\net5.0\Atividade IMC.pdb
 C:\Users\User\Desktop\Joceline\C#\visual studio\IMC\Atividade IMC\Atividade IMC\obj\Debug\net5.0\Atividade IMC.genruntimeconfig.cache
 C:\Users\User\Desktop\Joceline\C#\visual studio\IMC\Atividade IMC\Atividade IMC\obj\Debug\net5.0\ref\Atividade IMC.dll
+C:\Users\User\Desktop\Joceline\C#\Ativ IMC e HW\Atividade IMC\bin\Debug\net5.0\Atividade IMC.exe
+C:\Users\User\Desktop\Joceline\C#\Ativ IMC e HW\Atividade IMC\bin\Debug\net5.0\Atividade IMC.deps.json
+C:\Users\User\Desktop\Joceline\C#\Ativ IMC e HW\Atividade IMC\bin\Debug\net5.0\Atividade IMC.runtimeconfig.json
+C:\Users\User\Desktop\Joceline\C#\Ativ IMC e HW\Atividade IMC\bin\Debug\net5.0\Atividade IMC.runtimeconfig.dev.json
+C:\Users\User\Desktop\Joceline\C#\Ativ IMC e HW\Atividade IMC\bin\Debug\net5.0\Atividade IMC.dll
+C:\Users\User\Desktop\Joceline\C#\Ativ IMC e HW\Atividade IMC\bin\Debug\net5.0\Atividade IMC.pdb
+C:\Users\User\Desktop\Joceline\C#\Ativ IMC e HW\Atividade IMC\obj\Debug\net5.0\Atividade IMC.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Joceline\C#\Ativ IMC e HW\Atividade IMC\obj\Debug\net5.0\Atividade IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Joceline\C#\Ativ IMC e HW\Atividade IMC\obj\Debug\net5.0\Atividade IMC.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Joceline\C#\Ativ IMC e HW\Atividade IMC\obj\Debug\net5.0\Atividade IMC.AssemblyInfo.cs
+C:\Users\User\Desktop\Joceline\C#\Ativ IMC e HW\Atividade IMC\obj\Debug\net5.0\Atividade IMC.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Joceline\C#\Ativ IMC e HW\Atividade IMC\obj\Debug\net5.0\Atividade IMC.dll
+C:\Users\User\Desktop\Joceline\C#\Ativ IMC e HW\Atividade IMC\obj\Debug\net5.0\refint\Atividade IMC.dll
+C:\Users\User\Desktop\Joceline\C#\Ativ IMC e HW\Atividade IMC\obj\Debug\net5.0\Atividade IMC.pdb
+C:\Users\User\Desktop\Joceline\C#\Ativ IMC e HW\Atividade IMC\obj\Debug\net5.0\Atividade IMC.genruntimeconfig.cache
+C:\Users\User\Desktop\Joceline\C#\Ativ IMC e HW\Atividade IMC\obj\Debug\net5.0\ref\Atividade IMC.dll

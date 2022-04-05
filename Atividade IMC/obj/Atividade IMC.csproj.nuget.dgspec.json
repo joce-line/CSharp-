@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Joceline\\C#\\visual studio\\IMC\\Atividade IMC\\Atividade IMC\\Atividade IMC.csproj": {}
+    "C:\\Users\\User\\Desktop\\Joceline\\C#\\Ativ IMC e HW\\Atividade IMC\\Atividade IMC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Joceline\\C#\\visual studio\\IMC\\Atividade IMC\\Atividade IMC\\Atividade IMC.csproj": {
+    "C:\\Users\\User\\Desktop\\Joceline\\C#\\Ativ IMC e HW\\Atividade IMC\\Atividade IMC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Joceline\\C#\\visual studio\\IMC\\Atividade IMC\\Atividade IMC\\Atividade IMC.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Joceline\\C#\\Ativ IMC e HW\\Atividade IMC\\Atividade IMC.csproj",
         "projectName": "Atividade IMC",
-        "projectPath": "C:\\Users\\User\\Desktop\\Joceline\\C#\\visual studio\\IMC\\Atividade IMC\\Atividade IMC\\Atividade IMC.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Joceline\\C#\\Ativ IMC e HW\\Atividade IMC\\Atividade IMC.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Joceline\\C#\\visual studio\\IMC\\Atividade IMC\\Atividade IMC\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Joceline\\C#\\Ativ IMC e HW\\Atividade IMC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

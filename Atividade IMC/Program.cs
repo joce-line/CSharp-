@@ -19,10 +19,26 @@ namespace Atividade_IMC
             Console.WriteLine("Digite seu peso: ");
             peso = float.Parse(Console.ReadLine());
 
-            imc = peso / (altura * altura); 
-
-            Console.WriteLine("Olá " + nome + " seu IMC é " + imc );
-
+            imc = peso / (altura * altura);
+            if (imc <18.5)
+            {
+                Console.WriteLine("Abaixo do peso");
+            }
+            else if (imc < 25)
+            {
+                Console.WriteLine("Peso normal");
+            }
+            else if (imc < 30)
+            {
+                Console.WriteLine("Sobrepeso");
+            } else
+            {
+                Console.WriteLine("Obesidade");
+            }
+            
+            
         }
     }
 }
+
+            
