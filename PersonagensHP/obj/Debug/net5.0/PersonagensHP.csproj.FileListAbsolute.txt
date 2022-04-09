@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\PersonagensHP\bin\Debug\net5.0\PersonagensHP.exe
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\PersonagensHP\bin\Debug\net5.0\PersonagensHP.deps.json
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\PersonagensHP\bin\Debug\net5.0\PersonagensHP.runtimeconfig.json
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\PersonagensHP\bin\Debug\net5.0\PersonagensHP.runtimeconfig.dev.json
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\PersonagensHP\bin\Debug\net5.0\PersonagensHP.dll
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\PersonagensHP\bin\Debug\net5.0\PersonagensHP.pdb
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\PersonagensHP\obj\Debug\net5.0\PersonagensHP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\PersonagensHP\obj\Debug\net5.0\PersonagensHP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\PersonagensHP\obj\Debug\net5.0\PersonagensHP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\PersonagensHP\obj\Debug\net5.0\PersonagensHP.AssemblyInfo.cs
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\PersonagensHP\obj\Debug\net5.0\PersonagensHP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\PersonagensHP\obj\Debug\net5.0\PersonagensHP.dll
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\PersonagensHP\obj\Debug\net5.0\refint\PersonagensHP.dll
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\PersonagensHP\obj\Debug\net5.0\PersonagensHP.pdb
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\PersonagensHP\obj\Debug\net5.0\PersonagensHP.genruntimeconfig.cache
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\PersonagensHP\obj\Debug\net5.0\ref\PersonagensHP.dll
