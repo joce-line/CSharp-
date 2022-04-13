@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Matematica\bin\Debug\net5.0\Matematica.exe
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Matematica\bin\Debug\net5.0\Matematica.deps.json
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Matematica\bin\Debug\net5.0\Matematica.runtimeconfig.json
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Matematica\bin\Debug\net5.0\Matematica.runtimeconfig.dev.json
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Matematica\bin\Debug\net5.0\Matematica.dll
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Matematica\bin\Debug\net5.0\Matematica.pdb
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Matematica\obj\Debug\net5.0\Matematica.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Matematica\obj\Debug\net5.0\Matematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Matematica\obj\Debug\net5.0\Matematica.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Matematica\obj\Debug\net5.0\Matematica.AssemblyInfo.cs
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Matematica\obj\Debug\net5.0\Matematica.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Matematica\obj\Debug\net5.0\Matematica.dll
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Matematica\obj\Debug\net5.0\refint\Matematica.dll
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Matematica\obj\Debug\net5.0\Matematica.pdb
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Matematica\obj\Debug\net5.0\Matematica.genruntimeconfig.cache
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Matematica\obj\Debug\net5.0\ref\Matematica.dll

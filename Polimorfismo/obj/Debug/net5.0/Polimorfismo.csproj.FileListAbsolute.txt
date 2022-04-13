@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Polimorfismo\obj\Debug\net5.0\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Polimorfismo\obj\Debug\net5.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Polimorfismo\obj\Debug\net5.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Polimorfismo\obj\Debug\net5.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Polimorfismo\obj\Debug\net5.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Polimorfismo\bin\Debug\net5.0\Polimorfismo.exe
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Polimorfismo\bin\Debug\net5.0\Polimorfismo.deps.json
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Polimorfismo\bin\Debug\net5.0\Polimorfismo.runtimeconfig.json
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Polimorfismo\bin\Debug\net5.0\Polimorfismo.runtimeconfig.dev.json
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Polimorfismo\bin\Debug\net5.0\Polimorfismo.dll
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Polimorfismo\bin\Debug\net5.0\Polimorfismo.pdb
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Polimorfismo\obj\Debug\net5.0\Polimorfismo.dll
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Polimorfismo\obj\Debug\net5.0\refint\Polimorfismo.dll
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Polimorfismo\obj\Debug\net5.0\Polimorfismo.pdb
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Polimorfismo\obj\Debug\net5.0\Polimorfismo.genruntimeconfig.cache
+C:\Users\User\Desktop\Joceline\C#\visual studio\CSharp\Polimorfismo\obj\Debug\net5.0\ref\Polimorfismo.dll
